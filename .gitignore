@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# venv
+venv/
+.venv/
+
+# secrets
+.env
+touch.env
+
+# OS
+.DS_Store
