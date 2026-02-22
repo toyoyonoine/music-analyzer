@@ -1,14 +1,13 @@
-# Python
-__pycache__/
-*.py[cod]
+# Streamlit secrets
+.streamlit/secrets.toml
 
 # venv
 venv/
 .venv/
 
-# secrets
-.env
-touch.env
-
-# OS
+# mac
 .DS_Store
+
+# python
+__pycache__/
+*.pyc
